@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408166993447",
+    "project_id": "namazvakitleri-c47b0",
+    "storage_bucket": "namazvakitleri-c47b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408166993447:android:c4612deb31fd3dfee64802",
+        "android_client_info": {
+          "package_name": "com.beatiapp.namazvakitleriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408166993447-ik4o3djg9f3dsconb3m7hik9u0lc27o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beatiapp.namazvakitleriapp",
+            "certificate_hash": "ade23f8647e8ff7fd8fee6e892a05e5cd2fca767"
+          }
+        },
+        {
+          "client_id": "408166993447-f54i4vrfncbl0njro6pvbkofslq004rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjecJ_WlpXnzXTIhufS5TsKzDLkYoEcxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408166993447-f54i4vrfncbl0njro6pvbkofslq004rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
