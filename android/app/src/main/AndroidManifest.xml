@@ -21,7 +21,7 @@
 <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
                 <meta-data
                 android:name="com.google.android.gms.ads.APPLICATION_ID"
-                android:value="ca-app-pub-2511721304404710~8775947563"/>
+                android:value="<ADMOB-APP-ID>"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
