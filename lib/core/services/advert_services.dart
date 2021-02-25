@@ -5,8 +5,8 @@ import 'package:flutter_native_admob/native_admob_controller.dart';
 
 class AdvertService {
   static final AdvertService instance = AdvertService._internal();
-  final String interstitialID = "ca-app-pub-2511721304404710/5654960208";
-  final String nativeID = "ca-app-pub-2511721304404710/9594205212";
+  final String interstitialID = "<INTERSTITIAL-AD-ID>";
+  final String nativeID = "<NATIVE-AD-ID>";
   factory AdvertService() => instance;
   AdvertService._internal();
   MobileAdTargetingInfo mobileAdTargetingInfo = MobileAdTargetingInfo();
