@@ -1,4 +1,5 @@
 # Prayer Times Application (Namaz Vakitleri Uygulaması)
+![Alt text](https://github.com/zekkontro/namazvakitleriapp/blob/main/GooglePlayLogo.png?raw=true)
 ### Android & IOS Free Messaging App
 
 
